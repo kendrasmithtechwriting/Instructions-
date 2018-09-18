@@ -14,3 +14,10 @@ Instructions that don’t work well for me are instructions that are vague or do
 - jargon
 - vagueness
 - generality
+
+**Audience**
+- impatient
+- organization
+- excess detail
+- simplicity
+- distracted
